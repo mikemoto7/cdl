@@ -1,0 +1,5 @@
+# Mark Ikemoto
+ls -ltr
+alias tfl='tail -f `\ls -t -d */ | head -1`/test_run.log'
+alias mwid='grep -i "malware id" `\ls -t -d */ | head -1`/test_run.log  | head -1'
+
