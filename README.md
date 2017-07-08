@@ -1,13 +1,7 @@
 
 cd list tool
 
-From cdl_function.sh:
-
-cd list mechanism.  This tool allows to you save the names of your most-often-visited
-directories in a file.  Then you can select them from a list to cd to them.
-Similar to the popd/pushd mechanism but this one displays the directory names in a vertical
-list rather than one long line-wrapping list.  And you don't lose your saved directory names
-if you exit your shell as with pushd/popd because the directory names are saved in a file.
+This tool allows to you save the names of your most-often-visited directories in a file.  Then you can select them from a list to cd to them.  Similar to the popd/pushd mechanism but this one displays the directory names in a vertical list rather than one long line-wrapping list.  And you don't lose your saved directory names if you exit your shell as with pushd/popd because the directory names are saved in a file.
 
 Uses/Features:
 
